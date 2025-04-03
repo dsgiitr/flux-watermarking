@@ -1,5 +1,7 @@
 Official Implementation of the paper WMARK@ICLR **Detection Limits and Statistical Separability of Tree Ring Watermarks in Rectified Flow-based Text-to-Image Generation Models.**
 
+## Workflow
+![alt text](image-3.png)
 ## Dataset Release
 All the results in the paper can be obtained via the `.h5` files given in [this](https://drive.google.com/drive/folders/1P-nU-dP62o8W4Ep3E2PTrnyuqv3cxk0V?usp=sharing) link
 
@@ -36,8 +38,7 @@ watermark_results_{YYYYMMDD-HHMMSS}_{config_identifier}.h5
 The detailed code to reproduce the results is given in the `evaluate_results.ipynb`
 
 
-## Workflow
-![alt text](image-3.png)
+
 
 ### Results
 
