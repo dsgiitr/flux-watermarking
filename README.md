@@ -1,3 +1,9 @@
+<div align="center">
+<h1>Detection Limits and Statistical Separability of Tree Ring Watermarks in RF-based Diffusion Transformers</h1>
+
+<a href='https://arxiv.org/abs/2504.03850'><img src='https://img.shields.io/badge/ArXiv-Preprint-red'></a>
+</div>
+
 Official Implementation of the paper WMARK@ICLR **Detection Limits and Statistical Separability of Tree Ring Watermarks in Rectified Flow-based Text-to-Image Generation Models.**
 
 ## Workflow
